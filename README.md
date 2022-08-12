@@ -1,6 +1,13 @@
 # BP-Nonogram-Solver
 Nonogram Solver by Belief Propagation
 
+## 입력/출력
+입력은 한 조건 내에선 띄어쓰기, 조건 간에는 줄 바꿈으로 구분되며, 1행의 조건(가로 조건)부터 n행의 조건, 1열의 조건(세로 조건)부터 m열의 조건 순으로 입력.
+
+■/□으로 색칠 여부 출력.
+
+<img src="https://user-images.githubusercontent.com/35063338/184306723-19c7cda9-9728-4f9d-b974-63992799d9cb.png" width="300" height="250"/> 
+
 ## 실행 과정
 <img src="https://user-images.githubusercontent.com/35063338/184304382-3b94837c-cfe3-4a1d-9848-cc3ff91bb6e1.png" width="600" height="300"/>  
 
@@ -19,3 +26,4 @@ n에 따른 수렴 속도 차이
 
 <img src="https://user-images.githubusercontent.com/35063338/184303662-121320e3-b30d-49f0-9380-4322e5869d7f.png" width="500" height="300"/>  
 <img src="https://user-images.githubusercontent.com/35063338/184303725-c0a47552-f559-40aa-a870-7aafb37c66ca.png" width="500" height="300"/>  
+
